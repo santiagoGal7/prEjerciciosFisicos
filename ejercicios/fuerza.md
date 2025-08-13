@@ -7,3 +7,8 @@ Los ejercicios de fuerza, también conocidos como entrenamiento de resistencia, 
 - Aumenta la masa muscular y el metabolismo.
 - Fortalece los huesos, reduciendo el riesgo de osteoporosis.
 - Mejora la postura y el equilibrio.
+
+## Instrucciones
+1. Comienza con un calentamiento dinámico de 5-10 minutos.
+2. Realiza series de ejercicios como sentadillas, flexiones y levantamiento de pesas. Asegúrate de mantener una técnica adecuada.
+3. Termina con un enfriamiento y estiramientos suaves de los músculos trabajados.
