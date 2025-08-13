@@ -7,3 +7,8 @@ El boxeo como ejercicio es un entrenamiento de alta intensidad que combina movim
 - Excelente para la salud cardiovascular y la quema de calorías.
 - Aumenta la coordinación, la agilidad y el tiempo de reacción.
 - Ayuda a liberar el estrés y la tensión.
+
+## Instrucciones
+1. Comienza con un calentamiento intenso que incluya saltar la cuerda y shadow boxing (boxeo de sombra).
+2. Practica combinaciones de golpes en un saco de boxeo o con un compañero.
+3. Realiza ejercicios de acondicionamiento como flexiones, abdominales y sentadillas.
