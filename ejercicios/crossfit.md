@@ -8,3 +8,8 @@ CrossFit es un programa de entrenamiento de alta intensidad que combina elemento
 - Mejora significativamente la fuerza, la resistencia y la potencia.
 - Aumenta la capacidad en las diez áreas físicas generales (ej. resistencia, agilidad, etc.).
 - Fomenta un fuerte sentido de comunidad y compañerismo.
+
+## Instrucciones
+1. Participa siempre en el calentamiento grupal para preparar el cuerpo.
+2. Realiza el "WOD" (Workout of the Day) o entrenamiento del día, escalando los pesos y movimientos a tu nivel.
+3. Finaliza con la sesión de enfriamiento y estiramientos (cool down).
