@@ -12,3 +12,7 @@ El boxeo como ejercicio es un entrenamiento de alta intensidad que combina movim
 1. Comienza con un calentamiento intenso que incluya saltar la cuerda y shadow boxing (boxeo de sombra).
 2. Practica combinaciones de golpes en un saco de boxeo o con un compañero.
 3. Realiza ejercicios de acondicionamiento como flexiones, abdominales y sentadillas.
+
+## Consejos
+- Venda tus manos y utiliza guantes de boxeo para proteger tus muñecas y nudillos.
+- Aprende la técnica correcta de los golpes para maximizar la eficacia y evitar lesiones.
