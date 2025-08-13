@@ -12,3 +12,7 @@ Los ejercicios de flexibilidad se centran en estirar los músculos para mejorar 
 1. Realiza un calentamiento ligero para aumentar la temperatura de los músculos.
 2. Mantén cada estiramiento durante 20-30 segundos sin rebotar.
 3. Concéntrate en los principales grupos musculares (piernas, espalda, hombros y cuello).
+
+## Consejos
+- Nunca estires hasta el punto de sentir dolor.
+- La constancia es clave; intenta estirar varias veces por semana.
