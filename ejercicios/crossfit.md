@@ -13,3 +13,7 @@ CrossFit es un programa de entrenamiento de alta intensidad que combina elemento
 1. Participa siempre en el calentamiento grupal para preparar el cuerpo.
 2. Realiza el "WOD" (Workout of the Day) o entrenamiento del día, escalando los pesos y movimientos a tu nivel.
 3. Finaliza con la sesión de enfriamiento y estiramientos (cool down).
+
+## Consejos
+- Prioriza siempre la técnica sobre la velocidad o el peso para prevenir lesiones.
+- Escucha a tu cuerpo y no dudes en escalar (modificar) los ejercicios según tus capacidades.
