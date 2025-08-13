@@ -16,3 +16,17 @@ Bienvenido a nuestra guía de ejercicios físicos, donde compartimos descripcion
 - [Ejercicio de CrossFit](ejercicios/crossfit.md): Entrenamiento intensivo y funcional.
 
 ¡Esperamos que encuentres útiles estos ejercicios y te inspires para mantenerte activo y saludable!
+
+---
+
+## Cómo usar esta guía
+1. Elige el tipo de ejercicio que quieras practicar.
+2. Lee su descripción y beneficios.
+3. Sigue las instrucciones paso a paso.
+4. Aplica los consejos para entrenar de forma segura y efectiva.
+
+---
+
+**Autor:** Santiago Andres Gallo Salamanca  
+**Grupo:** J3
+**Fecha:** 13/08/2025
