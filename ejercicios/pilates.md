@@ -7,3 +7,8 @@ Pilates es un sistema de entrenamiento que se centra en fortalecer los músculos
 - Fortalece y tonifica el core.
 - Mejora la postura, la alineación corporal y la flexibilidad.
 - Aumenta la conciencia corporal y la eficiencia del movimiento.
+
+## Instrucciones
+1. Comienza con ejercicios de respiración para activar el core.
+2. Realiza movimientos controlados y precisos, enfocándote en la calidad.
+3. Mantén la concentración en los principios de Pilates: control, precisión, fluidez y respiración.
