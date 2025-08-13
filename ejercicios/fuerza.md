@@ -12,3 +12,8 @@ Los ejercicios de fuerza, también conocidos como entrenamiento de resistencia, 
 1. Comienza con un calentamiento dinámico de 5-10 minutos.
 2. Realiza series de ejercicios como sentadillas, flexiones y levantamiento de pesas. Asegúrate de mantener una técnica adecuada.
 3. Termina con un enfriamiento y estiramientos suaves de los músculos trabajados.
+
+
+## Consejos
+- Aumenta el peso de forma gradual para evitar lesiones.
+- Permite que tus músculos descansen al menos 48 horas antes de volver a trabajarlos.
